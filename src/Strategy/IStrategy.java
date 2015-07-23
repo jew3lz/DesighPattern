@@ -5,5 +5,5 @@ package Strategy;
  * 三个锦囊,实现接口
  */
 public interface IStrategy {
-    public void operate();
+    void operate();
 }

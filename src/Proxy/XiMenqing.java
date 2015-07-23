@@ -8,7 +8,7 @@ public class XiMenqing {
         //叫王婆出来
         Wangpo wangpo = new Wangpo();
 
-        wangpo.happyWithMan();//表面上是王婆,其实是潘金莲在happer
+        wangpo.happyWithMan();//表面上是王婆,其实是潘金莲在happy
         wangpo.makeEyesToMan();
 
         //西门庆又勾引贾氏
