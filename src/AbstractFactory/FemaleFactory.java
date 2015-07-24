@@ -1,5 +1,7 @@
 package AbstractFactory;
 
+import AbstractFactory.Abstraction.AbstractHumanFactory;
+
 /**
  * Created by JEWELZ on 6/7/15.
  */

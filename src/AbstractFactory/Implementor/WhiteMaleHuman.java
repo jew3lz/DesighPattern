@@ -1,4 +1,6 @@
-package AbstractFactory;
+package AbstractFactory.Implementor;
+
+import AbstractFactory.Abstraction.AbstractWhiteHuman;
 
 /**
  * Created by JEWELZ on 6/7/15.

@@ -1,4 +1,8 @@
-package AbstractFactory;
+package AbstractFactory.Abstraction;
+
+import AbstractFactory.Human;
+import AbstractFactory.HumanEnum;
+import AbstractFactory.HumanFactory;
 
 /**
  * Created by JEWELZ on 6/7/15.

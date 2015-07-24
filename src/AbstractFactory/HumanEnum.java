@@ -5,12 +5,12 @@ package AbstractFactory;
  */
 public enum HumanEnum {
     //把世界上所有人的类型都定义出来
-    YellowMaleHuman("AbstractFactory.YellowMaleHuman"),
-    YellowFemaleHuman("AbstractFactory.YellowFemaleHuman"),
-    WhiteFemaleHuman("AbstractFactory.WhiteFemaleHuman"),
-    WhiteMaleHuman("AbstractFactory.WhiteMaleHuman"),
-    BlackFemaleHuman("AbstractFactory.BlackFemaleHuman"),
-    BlackMaleHuman("AbstractFactory.BlackMaleHuman");
+    YellowMaleHuman("AbstractFactory.Implementor.YellowMaleHuman"),
+    YellowFemaleHuman("AbstractFactory.Implementor.YellowFemaleHuman"),
+    WhiteFemaleHuman("AbstractFactory.Implementor.WhiteFemaleHuman"),
+    WhiteMaleHuman("AbstractFactory.Implementor.WhiteMaleHuman"),
+    BlackFemaleHuman("AbstractFactory.Implementor.BlackFemaleHuman"),
+    BlackMaleHuman("AbstractFactory.Implementor.BlackMaleHuman");
 
     private String value = "";
     //定义构造函数,目的是Data(value)类型的相匹配
